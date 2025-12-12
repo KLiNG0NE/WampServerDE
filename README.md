@@ -34,12 +34,12 @@ Die Dateien werden anschließend in das Verzeichnis der WampServer-Installation 
 
 Folgende Dateien wurden hinzugefügt:
 
-| Dateiname                            | Status |
-| :----------------------------------- | :----: |
-| README.md                            | 100%   |
-| www/wamplangues/add_vhost_german.php | 0%     |
-| www/wamplangues/help_german.php      | 0%     |
-| www/wamplangues/index_german.php     | 100%   |
+| Dateiname                            | Status   |
+| :----------------------------------- | :------: |
+| README.md                            | 100% ✅ |
+| www/wamplangues/add_vhost_german.php | 0% ❌   |
+| www/wamplangues/help_german.php      | 0% ❌   |
+| www/wamplangues/index_german.php     | 100% ✅ |
 
 ---
 
