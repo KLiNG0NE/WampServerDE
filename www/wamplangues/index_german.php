@@ -1,0 +1,66 @@
+<?php
+// 3.2.5 - documentation-of added for languages requiring it
+// for English is identical to documentation
+// 3.2.6 - txtNoHosts
+// 3.2.8 - phpNotExists - txtProjectsLink -	phpExtensions - phpVersionsUse
+// 3.3.0 - txtPathNoSlash
+// 3.3.2 - txtSlashEnd
+// 3.3.7 - apacheLoadedModules
+
+$langues = array(
+	'langue' => 'Deutsch',
+	'locale' => 'german',
+	'titreHtml' => 'WAMPSERVER Homepage',
+	'titreConf' => 'Server-Konfiguration',
+	'versa' => 'Apache-Version:',
+	'doca2.2' => 'httpd.apache.org/docs/2.2/de/',
+	'doca2.4' => 'httpd.apache.org/docs/2.4/de/',
+	'versp' => 'PHP-Version:',
+	'server' => 'Server-Software:',
+	'documentation' => 'Dokumentation',
+	'documentation-of' => 'Dokumentation',
+	'docp' => 'www.php.net/manual/de/',
+	'versm' => 'MySQL-Version:',
+	'docm' => 'dev.mysql.com/doc/index.html',
+	'versmaria' => 'MariaDB-Version: ',
+	'docmaria' => 'mariadb.com/kb/de/mariadb/documentation',
+	'phpExt' => 'Geladene Erweiterungen: ',
+	'titrePage' => 'Werkzeuge',
+	'txtProjet' => 'Projekte',
+	'txtNoProjet' => 'Noch keine Projekte.<br />Um ein neues Projekt zu erstellen, einfach ein Verzeichnis in „www“ erstellen.',
+	'txtProjects' => 'Ordner in %s<br />Um sie als HTTP-Link zu nutzen, muss erst ein VirtualHost erstellt werden.',
+	'txtProjectsLink' =>'Es funktioniert auch: Rechtsklick, Einstellungen, Caution: Risky …, Allow links on projects …',
+	'txtAlias' => 'Aktuelle Aliases',
+	'txtNoAlias' => 'Bisher kein Alias.<br />Zum erstellen, das WAMPSERVER-Menü nutzen.',
+	'txtVhost' => 'Aktuelle VirtualHosts',
+	'txtServerName' => 'The ServerName %s has syntax error in file %s',
+	'txtDocRoot' => 'The ServerName %s use DocumentRoot %s reserved to localhost',
+	'txtTLDdev' => 'The ServerName %s use TLD %s which is monopolized by web browsers. Use another TLD (.test for example)',
+	'txtNoHosts' => 'The ServerName %s is not defined into hosts file.',
+	'txtServerNameIp' => 'IP %s for Servername %s is not valid in file %s',
+	'txtVhostNotClean' => 'The %s file has not been cleaned. There remain VirtualHost examples like: dummy-host.example.com',
+	'txtNoVhost' => 'No VirtualHost yet. Add one for each project in the file: wamp/bin/apache/apache%s/conf/extra/httpd-vhosts.conf',
+	'txtNoIncVhost' => 'Uncomment or add <i>Include conf/extra/httpd-vhosts.conf</i> in file wamp/bin/apache/apache%s/conf/httpd.conf',
+	'txtNoVhostFile' => 'The file: %s does not exists',
+	'txtNoPath' => 'The path %s for %s does not exist (File %s)',
+	'txtSlashEnd' => 'The %s path for %s is terminated by a slash (File %s)',
+	'txtPathNoSlash' => 'The path %s for %s is not ended with a slash /',
+	'txtNotWritable' => 'The file: %s is not writable',
+	'txtNbNotEqual' => 'The number of %s does not match the number of %s in %s file',
+	'txtAddVhost' => 'Einen VirtualHost hinzufügen',
+	'txtPortNumber' => 'Port-Nummer für %s hat einen falschen Wert oder ist nicht gleich Datei  %s',
+	'txtCorrected' => 'Einige VirtualHosts-Fehler konnten korrigiert werden.',
+	'forum' => 'Wampserver-Forum',
+	'forumLink' => 'http://forum.wampserver.com/list.php?2',
+	'portUsed' => 'Port definert für Apache: ',
+	'mysqlportUsed' => 'Port definert für MySQL: ',
+	'mariaportUsed' => 'Port definert für MariaDB: ',
+	'defaultDBMS' => 'default DBMS',
+	'phpNotExists' => 'PHP version doesn\'t exist',
+	'HelpMySQLMariaDB' => 'How to use MySQL and/or MariaDB?<br>What is a default DBMS?<br>How to change the default DBMS?<br>Go to the related help: Right-click Wampmanager icon -> Help -> MariaDB - MySQL',
+	'nolocalhost' => 'It\'s a bad idea to add localhost in the url of launching projects. It is best to define VirtualHost in<br />wamp/bin/apache/apache%s/conf/extra/httpd-vhosts.conf<br />file and not add localhost in the url.',
+	'phpExtensions' => 'Geladene PHP-Erweiterungen',
+	'phpVersionsUse' => 'Nutzung der PHP-Versionen',
+	'apacheLoadedModules' => 'Geladene Apache-Module',
+	);
+?>
