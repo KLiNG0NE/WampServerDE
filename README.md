@@ -2,6 +2,10 @@
 
 Deutsche Sprachdateien für [WampServer](https://www.wampserver.com/).
 
+Dieses Repository beinhaltet Sprachdateien für die Software WampServer. Du kannst die Dateien über GitHub über "Code -> Download ZIP" herunterladen.
+
+Die Dateien werden anschließend in das Verzeichnis der WampServer-Installation Beispielsweise ``C:\wamp64`` entpackt.
+
 ---
 
 ## Hinzugefügte Dateien
