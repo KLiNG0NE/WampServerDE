@@ -18,8 +18,6 @@ Dieses Repository beinhaltet Sprachdateien für die Software WampServer.
 
 Du kannst die Dateien auf GitHub über "Code -> Download ZIP" herunterladen: [github.com/KLiNG0NE](https://github.com/KLiNG0NE/WampServerDE "https://github.com")
 
-WampServerDE-main.zip [Download](https://github.com/KLiNG0NE/WampServerDE/archive/refs/heads/main.zip "https://github.com") < 10 KB
-
 | Dateiname             | Größe   | Link                                                                                                  |
 | :-------------------- | :-----: | :---------------------------------------------------------------------------------------------------: |
 | WampServerDE-main.zip | < 10 KB | [Download](https://github.com/KLiNG0NE/WampServerDE/archive/refs/heads/main.zip "https://github.com") |
