@@ -2,6 +2,10 @@
 
 Deutsche Sprachdateien für [WampServer](https://www.wampserver.com/).
 
+| Getestet mit | Version | Datum      |
+| :----------- | :-----: | :--------: |
+| WampServer   | 3.4.0   | 2025-12-12 |
+
 Dieses Repository beinhaltet Sprachdateien für die Software WampServer. Du kannst die Dateien auf GitHub über "Code -> Download ZIP" herunterladen: [github.com/KLiNG0NE](https://github.com/KLiNG0NE/WampServerDE "https://github.com")
 
 WampServerDE [Download](https://github.com/KLiNG0NE/WampServerDE/archive/refs/heads/main.zip "https://github.com")
