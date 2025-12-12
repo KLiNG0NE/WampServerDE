@@ -1,0 +1,110 @@
+<?php
+//
+// Translation by KLiNG0NE  (2025-12-12)
+//
+//3.0.7 - $w_mariadbConsole - $w_mariadbLog - $w_mariaSettings
+//        $w_apacheDoc - $w_mysqlDoc - $w_mariadbDoc - $w_phpDoc - $w_doc
+//3.0.8 - $w_noDBMS
+//3.1.1   $w_cmdWindows - $w_mysqlCommand - $w_mariadbCommand - $w_apacheCommand - $w_services_msc
+//3.2.0		$w_helpForums - $w_helpUse
+//3.2.1   $w_apacheSettings - $w_apacheDefaults
+//3.2.2   $w_helpFile modified
+//3.2.6   $w_startedOn - $w_restartWamp - $w_phpCommand
+//3.2.7   $w_changelog - $w_warning
+//        --- Suppress: $w_putOnline - $w_putOffline
+//3.2.9   $w_startOfServices - $w_servicesStarted - $w_bepatient - $w_ready - $w_state_services
+//        --- Suppress: $w_serverOffline - $w_serverOnline
+//3.3.0   $w_waitConfig - $file_charset
+//3.3.2 --- Modified $w_helpForums
+//3.3.6 --- Modified $w_about
+//3.3.8 --- $w_uncomment
+
+$file_charset = 'iso-8859-1';
+
+$w_allServicesRunning = 'Alle Services laufen';
+$w_oneServiceRunning = '%n von %t Services laufen';
+$w_allServicesStopped = 'Kein von %t Services laufen';
+$w_state_services = 'Rechtsklick -> Tools -> Check state of services';
+
+$w_about = 'Optionen... Über';
+$w_helpFile = 'Dateien & Dokumentation';
+$w_help = 'Hilfe';
+$w_helpForums = 'Englischsprachiges Support-Forum';
+$w_helpUse = 'Bedienungsanleitung';
+$w_exit = 'Ende';
+$w_version = 'Version';
+$w_service = 'Service-Administration';
+$w_services_msc = 'Services-Systemsteuerung';
+$w_doc = 'Dokumentation';
+$w_cmdWindows = 'Command-Fenster';
+
+$w_localhost = 'Localhost';
+$w_phpmyadmin = 'phpMyAdmin';
+$w_sqlitemanager = 'SQLiteManager';
+$w_wwwDirectory = 'www-Ordner';
+$w_logFiles = 'Log-Dateien';
+$w_configFiles = 'Konfigurations-Dateien';
+$w_apacheModules = 'Apache-Module';
+$w_apacheSettings = 'Apache-Einstellungen';
+$w_apacheDefaults = 'Standard-Direktiven';
+$w_phpSettings = 'PHP-Einstellungen';
+$w_aliasDirectories = 'Alias-Ordner';
+$w_services = 'Services';
+$w_apache = 'Apache';
+$w_apacheCommand = $w_cmdWindows.' '.$w_apache.'/bin';
+$w_apacheDoc = 'Apache '.$w_doc;
+$w_mysql = 'MySQL';
+$w_mysqlDoc = 'MySQL '.$w_doc;
+$w_mysqlSettings = 'MySQL-Einstellungen';
+$w_mariaSettings = 'MariaDB-Einstellungen';
+$w_mariadbDoc = 'MariaDB '.$w_doc;
+$w_startServices = 'Starte alle Services ';
+$w_stopServices = 'Stoppe alle Services';
+$w_restartServices = 'Neustart aller Services';
+// Format ICU from https://unicode-org.github.io/icu/userguide/format_parse/datetime/#date-field-symbol-table
+// be careful
+$w_FormatDate = "Y-MM-dd hh:mm a";
+$w_startedOn = 'Gestartet am: ';
+$w_restartWamp = 'Neustart von Null';
+$w_warning = 'WARNUNG !'.
+
+$w_apacheErrorLog = 'Apache Fehler-Log';
+$w_apacheAccessLog = 'Apache Zugriffs-Log';
+$w_phpLog = 'PHP Fehler-Log';
+$w_changelog ='Change-Log';
+$w_phpDoc = 'PHP '.$w_doc;
+$w_mysqlLog = 'MySQL-Log';
+$w_mariadbLog = 'MariaDB-Log';
+$w_addAlias = 'Hinzufügen eines Alias';
+$w_editAlias = 'Bearbeite Alias';
+$w_editHtaccess = 'Bearbeite .htaccess';
+$w_deleteAlias = 'Sperre Alias';
+$w_refresh = 'Aktualisieren';
+$w_phpExtensions = 'PHP-Erweiterungen';
+$w_addExtension = 'Hinzufügen Erweiterung';
+$w_phpCommand = $w_cmdWindows.' PHP';
+
+$w_startResume = 'Starte/Fortsetze Service';
+$w_pauseService = 'Pausiere Service';
+$w_stopService = 'Stoppe Service';
+$w_restartService = 'Neustart Services';
+$w_testPort80 = 'Teste Port 80';
+$w_installService = 'Installiere Service';
+$w_removeService = 'Entferne Service';
+$w_mysqlConsole = 'MySQL-Konsole';
+$w_mysqlCommand = $w_cmdWindows.' '.$w_mysql.'/bin';
+$w_mariadbConsole = 'MariaDB-Konsole';
+$w_mariadbCommand = $w_cmdWindows.' MariaDB/bin';
+$w_uncomment = 'Auskommentieren';
+
+$w_noDBMS = 'Kein Datenbank-System';
+
+$w_language = 'Sprache';
+
+$w_startOfServices = 'Starte Services';
+$w_servicesStarted = 'Services gestartet';
+$w_bepatient = 'Etwas Geduld !';
+$w_ready = 'Fertig !';
+$w_waitConfig = 'Einstellungen aktualisiert !';
+
+?>
