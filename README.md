@@ -1,4 +1,4 @@
-# WampServer
+# WampServerDE
 
 Deutsche Sprachdateien für [WampServer](https://www.wampserver.com/).
 
