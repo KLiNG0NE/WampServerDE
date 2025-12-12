@@ -46,6 +46,7 @@ Folgende Dateien wurden aktualisiert:
 | Dateiname                            | Status   | Datum      |
 | :----------------------------------- | :------: | ---------- |
 | lang/german.lang                     | 80% ❌  | 2025-12-12 |
+| lang/modules/settings_german.php     | 0% ❌   | 2025-12-12 |
 
 ---
 
