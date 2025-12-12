@@ -1,5 +1,8 @@
 <?php
-// Default English language file for
+//
+// Translation by KLiNG0NE  (2025-12-12)
+//
+// Default German language file for
 // Projects and VirtualHosts sub-menus
 // Settings and Tools right-click sub-menus
 // 3.0.7 add $w_listenForApache - $w_AddListenPort - $w_deleteListenPort - $w_settings['SupportMariaDB']
@@ -47,68 +50,68 @@
 // 3.4.0 LinksChooseIp - $w_reinstallWait
 
 // Projects sub-menu
-$w_projectsSubMenu = 'Your projects';
+$w_projectsSubMenu = 'Projekte';
 // VirtualHosts sub-menu
-$w_virtualHostsSubMenu = 'Your VirtualHosts';
-$w_add_VirtualHost = 'VirtualHost Management';
-$w_aliasSubMenu = 'Your Aliases';
-$w_portUsed = 'Port used by Apache: ';
-$w_portUsedMysql = 'Port used by MySQL: ';
-$w_portUsedMaria = 'Port used by MariaDB : ';
-$w_testPortUsed = 'Test port used: ';
-$w_portForApache = 'Port for Apache';
-$w_listenForApache = 'Listen Port to add to Apache';
-$w_portForMysql = 'Port for MySQL';
-$w_testPortMysql = 'Test port 3306';
-$w_testPortMysqlUsed = 'Test MySQL port used: ';
-$w_testPortMariaUsed = 'Test MariaDB port used: ';
+$w_virtualHostsSubMenu = 'VirtualHosts';
+$w_add_VirtualHost = 'VirtualHost-Management';
+$w_aliasSubMenu = 'Aliases';
+$w_portUsed = 'Port genutzt von Apache: ';
+$w_portUsedMysql = 'Port genutzt von MySQL: ';
+$w_portUsedMaria = 'Port genutzt von MariaDB : ';
+$w_testPortUsed = 'Teste genutzten Port: ';
+$w_portForApache = 'Port für Apache';
+$w_listenForApache = 'Port zu Apache hinzufügen';
+$w_portForMysql = 'Port für MySQL';
+$w_testPortMysql = 'Teste Port 3306';
+$w_testPortMysqlUsed = 'Teste genutzten MySQL-Port: ';
+$w_testPortMariaUsed = 'Teste genutzten MariaDB-Port: ';
 
 // Right-click Settings
-$w_wampSettings = 'Wamp Settings';
+$w_wampSettings = 'Wamp-Einstellungen';
 $w_settings = array(
-	'urlAddLocalhost' => 'Add localhost in url',
-	'VirtualHostSubMenu' => 'VirtualHosts sub-menu',
-	'AliasSubmenu' => 'Alias sub-menu',
-	'ProjectSubMenu' => 'Projects sub-menu',
-	'HomepageAtStartup' => 'Wampserver Homepage at startup',
-	'MenuItemOnline' => 'Menu item: Online / Offline',
-	'ItemServicesNames' => 'Tools menu item: Change services names',
-	'CheckVirtualHost' => 'Check VirtualHost definitions',
-	'NotCheckVirtualHost' => 'Don\'t check VirtualHost definitions',
-	'NotCheckDuplicate' => 'Don\'t check duplicate ServerName',
-	'VhostAllLocalIp' => 'Allow VirtualHost local IP\'s others than 127.*',
-	'SupportMySQL' => 'Allow MySQL',
-	'SupportMariaDB' => 'Allow MariaDB',
-	'DaredevilOptions' => 'Caution: Risky! Only for experts.',
-	'ShowadminerMenu' => 'Show Adminer in Menu',
-	'mariadbUseConsolePrompt' => 'Modify default Mariadb console prompt',
-	'mysqlUseConsolePrompt' => 'Modify default Mysql console prompt',
-	'NotVerifyPATH' => 'Do not verify PATH',
-	'NotVerifyTLD' => 'Do not verify TLD',
-	'NotVerifyHosts' => 'Do not verify hosts file',
-	'Cleaning' => 'Automatic Cleaning',
-	'AutoCleanLogs' => 'Clean log files automatically',
-	'AutoCleanLogsMax' => 'Number of lines before cleaning',
-	'AutoCleanLogsMin' => 'Number of lines after cleaning',
-	'AutoCleanTmp' => 'Clean tmp directory automatically',
-	'AutoCleanTmpMax' => 'Number of files before cleaning',
-	'CleanLogs_SwitchVersion' => 'Empty log files at version changes',
-	'ForTestOnly' => 'Only for test purpose',
-	'iniCommented' => 'Commented php.ini directives (; at the beginning of the line)',
-	'BackupHosts' => 'Backup hosts file',
-	'ShowWWWdirMenu' => 'Show www folder in Menu',
-	'ApacheWampParams' => 'Wampserver settings for Apache',
-	'apacheCompareVersion' => 'Allow comparison of Apache settings.',
-	'apacheRestoreFiles' => 'Allow Apache files restoration',
-	'apacheGracefulRestart' => 'Allow Apache Graceful Restart',
-	'LinksOnProjectsHomePage' => 'Allow links on projects homepage',
-	'LinksOnProjectsHomeByIp' => 'Link on projects by \'local link IP\'',
-	'LinksChooseIp' => 'Choose local IP',
-	'ScrollListsHomePage' => 'Allow scrolling of lists on home page',
-	'WampserverBrowser' => 'Wampserver browser',
-	'BrowserChange' => 'Set Wampserver browser',
-	'httpsReady' => 'Wampserver ready to support https',
-	'AllowLocalhostHttps' => 'Enable HTTPS for localhost',
+	'urlAddLocalhost' => 'localhost zu URL hinzufügen',
+	'VirtualHostSubMenu' => 'VirtualHosts Untermenü',
+	'AliasSubmenu' => 'Alias Untermenü',
+	'ProjectSubMenu' => 'Projekte Untermenü',
+	'HomepageAtStartup' => 'Wampserver-Homepage bei Start',
+	'MenuItemOnline' => 'Menüpunkt: Online / Offline',
+	'ItemServicesNames' => 'Werkzeuge-Menüpunkt: Ändere Service-Namen',
+	'CheckVirtualHost' => 'VirtualHost-Definitionen prüfen',
+	'NotCheckVirtualHost' => 'Nicht VirtualHost-Definitionen prüfen',
+	'NotCheckDuplicate' => 'Nicht auf doppelte Server-Namen prüfen',
+	'VhostAllLocalIp' => 'Erlaube VirtualHost lokale IPs anders als 127.*',
+	'SupportMySQL' => 'Aktiviere MySQL',
+	'SupportMariaDB' => 'Aktiviere MariaDB',
+	'DaredevilOptions' => 'Achtung: Risiko! Nur für Experten.',
+	'ShowadminerMenu' => 'Adminer in Menü anzeigen',
+	'mariadbUseConsolePrompt' => 'Standard-Konsolen-Prompt für MariaDB anpassen',
+	'mysqlUseConsolePrompt' => 'Standard-Konsolen-Prompt für MySQL anpassen',
+	'NotVerifyPATH' => 'PATH nicht prüfen',
+	'NotVerifyTLD' => 'TLD nicht prüfen',
+	'NotVerifyHosts' => 'hosts-Datei nicht prüfen',
+	'Cleaning' => 'Automatische Bereinigung',
+	'AutoCleanLogs' => 'Log-Dateien automatisch bereinigen',
+	'AutoCleanLogsMax' => 'Zeilen vor Bereinigung',
+	'AutoCleanLogsMin' => 'Zeilen nach Bereinigung',
+	'AutoCleanTmp' => 'tmp-Ordner automatisch bereinigen',
+	'AutoCleanTmpMax' => 'Anzahl der Dateien vor Bereinigung',
+	'CleanLogs_SwitchVersion' => 'Log-Dateien bei Versions-Änderung leeren',
+	'ForTestOnly' => 'Nur zu Test-Zwecken',
+	'iniCommented' => 'Auskommentierte php.ini-Direktiven (; am Anfang der Zeile)',
+	'BackupHosts' => 'hosts-Datei sichern',
+	'ShowWWWdirMenu' => 'Zeige www-Ordner in Menü',
+	'ApacheWampParams' => 'WampServer-Einstellungen für Apache',
+	'apacheCompareVersion' => 'Vergleich von Apache-Einstellungen aktivieren',
+	'apacheRestoreFiles' => 'Wiederherstellung von Apache-Dateien erlauben',
+	'apacheGracefulRestart' => 'Sanften Neustart von Apache aktivieren',
+	'LinksOnProjectsHomePage' => 'Links auf Projekte-Homepage erlauben',
+	'LinksOnProjectsHomeByIp' => 'Links zu Projekten über \'lokale Link-IP\'',
+	'LinksChooseIp' => 'Lokale IP wählen',
+	'ScrollListsHomePage' => 'Scrollbare Listen auf Homepage aktivieren',
+	'WampserverBrowser' => 'WampServer-Browser',
+	'BrowserChange' => 'WampServer-Browser einstellen',
+	'httpsReady' => 'WampServer ist bereit HTTPS zu unterstützen',
+	'AllowLocalhostHttps' => 'HTTPS für localhost aktivieren',
 );
 
 // Right-click Tools
