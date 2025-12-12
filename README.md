@@ -2,6 +2,12 @@
 
 Deutsche Sprachdateien für [WampServer](https://www.wampserver.com/).
 
+---
+
+## Hinzugefügte Dateien
+
+Folgende Dateien wurden hinzugefügt:
+
 | Dateiname                        | Status |
 | :------------------------------- | :----: |
 | www/wamplangues/index_german.php | 100%   |
