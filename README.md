@@ -26,7 +26,7 @@ Du kannst die Dateien auf GitHub über "Code -> Download ZIP" herunterladen: [gi
 
 ## Installation
 
-Die Dateien werden anschließend in das Verzeichnis der WampServer-Installation Beispielsweise ``C:\wamp64`` entpackt. Das Überschreiben vorhandener Dateien, sollten genehmigt werden.
+Die Dateien werden anschließend in das Verzeichnis der WampServer-Installation, Beispielsweise ``C:\wamp64``, entpackt. Das Überschreiben vorhandener Dateien, sollte genehmigt werden.
 
 ---
 
@@ -34,12 +34,12 @@ Die Dateien werden anschließend in das Verzeichnis der WampServer-Installation 
 
 Folgende Dateien wurden hinzugefügt:
 
-| Dateiname                            | Status   |
-| :----------------------------------- | :------: |
-| README.md                            | 100% ✅ |
-| www/wamplangues/add_vhost_german.php | 50% ❌   |
-| www/wamplangues/help_german.php      | 0% ❌   |
-| www/wamplangues/index_german.php     | 100% ✅ |
+| Dateiname                            | Status   | Datum      |
+| :----------------------------------- | :------: | ---------- |
+| README.md                            | 100% ✅ |            |
+| www/wamplangues/add_vhost_german.php | 50% ❌  | 2025-12-12 |
+| www/wamplangues/help_german.php      | 0% ❌   |            |
+| www/wamplangues/index_german.php     | 100% ✅ | 2025-12-11 |
 
 Folgende Dateien wurden aktualisiert:
 
