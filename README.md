@@ -46,12 +46,12 @@ Folgende Dateien wurden aktualisiert:
 
 | Dateiname                            | Status   | Datum      |
 | :----------------------------------- | :------: | ---------- |
-| lang/german.lang                     | 80% ❌  | 2025-12-12 |
-| lang/modules/settings_german.php     | 25% ❌  | 2025-12-12 |
+| lang/german.lang                     | 100% ✅  | 2026-09-02 |
+| lang/modules/settings_german.php     | 90% ❌   | 2026-09-02 |
 
 ### Anmerkung ###
 
-> Damit die deutschen Umlaute korrekt angezeigt werden, müssen die Dateien im Format ISO-8859-1 gespeichert werden.
+> Damit die deutschen Umlaute korrekt angezeigt werden, müssen die Dateien im Format **ISO-8859-1** gespeichert werden.
 
 ---
 
