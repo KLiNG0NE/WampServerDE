@@ -1,5 +1,9 @@
 # WampServerDE
 
+<p align="center">
+  <img src="WampServerDE-logo.png" alt="Logo" title="Logo" />
+</p>
+
 Deutsche Sprachdateien für [WampServer](https://www.wampserver.com/ "ttps://www.wampserver.com").  
 Alternative Website: [wampserver.aviatechno.net](https://wampserver.aviatechno.net/ "https://wampserver.aviatechno.net")
 
