@@ -1,8 +1,9 @@
 # WampServerDE
 
-Deutsche Sprachdateien für [WampServer](https://www.wampserver.com/).
+Deutsche Sprachdateien für [WampServer](https://www.wampserver.com/ "ttps://www.wampserver.com").  
+Alternative Website: [wampserver.aviatechno.net](https://wampserver.aviatechno.net/ "https://wampserver.aviatechno.net")
 
-Dieses Repository beinhaltet Sprachdateien für die Software WampServer. 
+Dieses Repository beinhaltet Sprachdateien für die Software **WampServer**.
 
 ---
 
@@ -10,7 +11,7 @@ Dieses Repository beinhaltet Sprachdateien für die Software WampServer.
 
 | Getestet mit | Version | Datum      |
 | :----------- | :-----: | :--------: |
-| WampServer   | 3.4.0   | 2025-12-12 |
+| WampServer   | 3.4.2   | 2026-09-02 |
 
 ---
 
