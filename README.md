@@ -49,6 +49,10 @@ Folgende Dateien wurden aktualisiert:
 | lang/german.lang                     | 80% ❌  | 2025-12-12 |
 | lang/modules/settings_german.php     | 25% ❌  | 2025-12-12 |
 
+### Anmerkung ###
+
+> Damit die deutschen Umlaute korrekt angezeigt werden, müssen die Dateien im Format ISO-8859-1 gespeichert werden.
+
 ---
 
 ### Hinweis
