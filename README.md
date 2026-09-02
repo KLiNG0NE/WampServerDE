@@ -61,7 +61,7 @@ Dieses Repository steht in keiner Verbindung mit dem Original-Entwickler der Sof
 
 Bei Fragen zur Software bitte an den Entwickler der Original-Software wenden:
 
-WampServer Website: [www.wampserver.com](https://www.wampserver.com/ "https://www.wampserver.com")
+WampServer Website: [www.wampserver.com](https://www.wampserver.com/ "https://www.wampserver.com") / [wampserver.aviatechno.net](https://wampserver.aviatechno.net/ "https://wampserver.aviatechno.net")
 
 ---
 
