@@ -31,7 +31,7 @@ Die Dateien werden anschließend in das Verzeichnis der WampServer-Installation,
 
 ---
 
-## Hinzugefügte Dateien
+## Veränderte Dateien
 
 Folgende Dateien wurden hinzugefügt:
 
