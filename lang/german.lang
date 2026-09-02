@@ -1,6 +1,6 @@
 <?php
 //
-// Translation by KLiNG0NE  (2025-12-12)
+// Translation by KLiNG0NE  (2026-09-02)
 //
 //3.0.7 - $w_mariadbConsole - $w_mariadbLog - $w_mariaSettings
 //        $w_apacheDoc - $w_mysqlDoc - $w_mariadbDoc - $w_phpDoc - $w_doc
@@ -18,6 +18,7 @@
 //3.3.2 --- Modified $w_helpForums
 //3.3.6 --- Modified $w_about
 //3.3.8 --- $w_uncomment
+//3.4.1   $w_numberServices - $w_waitServices - $w_waitParameters
 
 $file_charset = 'iso-8859-1';
 
@@ -26,7 +27,7 @@ $w_oneServiceRunning = '%n von %t Services laufen';
 $w_allServicesStopped = 'Kein von %t Services laufen';
 $w_state_services = 'Rechtsklick -> Tools -> Check state of services';
 
-$w_about = 'Optionen... Ãœber';
+$w_about = 'Optionen... Über';
 $w_helpFile = 'Dateien & Dokumentation';
 $w_help = 'Hilfe';
 $w_helpForums = 'Englischsprachiges Support-Forum';
@@ -75,13 +76,13 @@ $w_changelog ='Change-Log';
 $w_phpDoc = 'PHP '.$w_doc;
 $w_mysqlLog = 'MySQL-Log';
 $w_mariadbLog = 'MariaDB-Log';
-$w_addAlias = 'HinzufÃ¼gen eines Alias';
+$w_addAlias = 'Hinzufügen eines Alias';
 $w_editAlias = 'Bearbeite Alias';
 $w_editHtaccess = 'Bearbeite .htaccess';
 $w_deleteAlias = 'Sperre Alias';
 $w_refresh = 'Aktualisieren';
 $w_phpExtensions = 'PHP-Erweiterungen';
-$w_addExtension = 'HinzufÃ¼gen Erweiterung';
+$w_addExtension = 'Hinzufügen Erweiterung';
 $w_phpCommand = $w_cmdWindows.' PHP';
 
 $w_startResume = 'Starte/Fortsetze Service';
@@ -103,8 +104,11 @@ $w_language = 'Sprache';
 
 $w_startOfServices = 'Starte Services';
 $w_servicesStarted = 'Services gestartet';
+$w_numberServices = '%1 von %2 Services gestartet!';
 $w_bepatient = 'Etwas Geduld !';
 $w_ready = 'Fertig !';
 $w_waitConfig = 'Einstellungen aktualisiert !';
+$w_waitServices = 'Installiere Services !';
+$w_waitParameters = 'Parameter zurückgesetzt !';
 
 ?>
