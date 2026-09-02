@@ -4,10 +4,14 @@
   <img src="WampServerDE-logo.png" alt="Logo" title="Logo" />
 </p>
 
-Deutsche Sprachdateien für [WampServer](https://www.wampserver.com/ "ttps://www.wampserver.com").  
-Alternative Website: [wampserver.aviatechno.net](https://wampserver.aviatechno.net/ "https://wampserver.aviatechno.net")
-
 Dieses Repository beinhaltet Sprachdateien für die Software **WampServer**.
+
+## WampServer-Homepage ##
+
+| Bezeichnung          | Website                                                                                             |
+|:---------------------|:---------------------------------------------------------------------------------------------------:|
+| Homepage:            | [www.wampserver.com](https://www.wampserver.com/ "ttps://www.wampserver.com")                       |
+| Alternative Website: | [wampserver.aviatechno.net](https://wampserver.aviatechno.net/ "https://wampserver.aviatechno.net") |
 
 ---
 
