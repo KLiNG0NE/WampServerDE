@@ -1,4 +1,4 @@
-# WampServerDE
+# WampServerDE #
 
 <p align="center">
   <img src="WampServerDE-logo.png" alt="Logo" title="Logo" />
@@ -17,7 +17,7 @@ Vor der Nutzung dieser Sprachdateien, muss zunächst die kostenlose Original-Sof
 
 ---
 
-## Version
+## Version ##
 
 | Getestet mit | Version | Datum      |
 | :----------- | :-----: | :--------: |
@@ -25,7 +25,7 @@ Vor der Nutzung dieser Sprachdateien, muss zunächst die kostenlose Original-Sof
 
 ---
 
-## Download
+## Download ##
 
 Du kannst die Dateien auf GitHub über "Code -> Download ZIP" herunterladen: [github.com/KLiNG0NE](https://github.com/KLiNG0NE/WampServerDE "https://github.com")
 
@@ -35,13 +35,13 @@ Du kannst die Dateien auf GitHub über "Code -> Download ZIP" herunterladen: [gi
 
 ---
 
-## Installation
+## Installation ##
 
 Die Dateien werden anschließend in das Verzeichnis der WampServer-Installation, Beispielsweise ``C:\wamp64``, entpackt. Das Überschreiben vorhandener Dateien, sollte genehmigt werden.
 
 ---
 
-## Veränderte Dateien
+## Veränderte Dateien ##
 
 Folgende Dateien wurden hinzugefügt:
 
@@ -65,11 +65,11 @@ Folgende Dateien wurden aktualisiert:
 
 ---
 
-### Hinweis
+### Hinweis ###
 
-Dieses Repository steht in keiner Verbindung mit dem Original-Entwickler der Software. Dies ist ein rein privates Projekt, um die Software *WampServer* an die deutsche Sprache anzupassen.
+Dieses Repository steht in keiner Verbindung mit dem Original-Entwickler der Software. Dies ist ein rein privates Projekt, um die Software **WampServer** an die deutsche Sprache anzupassen.
 
-Bei Fragen zur Software bitte an den Entwickler der Original-Software wenden:
+Bei Fragen zu WampServer bitte an den Entwickler der Original-Software wenden:
 
 WampServer Website: [www.wampserver.com](https://www.wampserver.com/ "https://www.wampserver.com") / [wampserver.aviatechno.net](https://wampserver.aviatechno.net/ "https://wampserver.aviatechno.net")
 
