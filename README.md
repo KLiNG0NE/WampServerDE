@@ -8,6 +8,8 @@ Dieses Repository beinhaltet Sprachdateien für die Software **WampServer**.
 
 ## WampServer-Homepage ##
 
+Vor der Nutzung dieser Sprachdateien, muss zunächst die kostenlose Original-Software vom Entwickler heruntergeladen und installiert werden:
+
 | Bezeichnung          | Website                                                                                             |
 |:---------------------|:---------------------------------------------------------------------------------------------------:|
 | Homepage:            | [www.wampserver.com](https://www.wampserver.com/ "ttps://www.wampserver.com")                       |
