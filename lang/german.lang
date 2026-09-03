@@ -22,22 +22,22 @@
 
 $file_charset = 'iso-8859-1';
 
-$w_allServicesRunning = 'Alle Services laufen';
-$w_oneServiceRunning = '%n von %t Services laufen';
-$w_allServicesStopped = 'Kein von %t Services laufen';
-$w_state_services = 'Rechtsklick -> Tools -> Check state of services';
+$w_allServicesRunning = 'Alle Dienste laufen';
+$w_oneServiceRunning = '%n von %t Diensten laufen';
+$w_allServicesStopped = 'Kein von %t Diensten läuft';
+$w_state_services = 'Rechtsklick -> Tools -> Status der Dienste prüfen';
 
-$w_about = 'Optionen... Über';
+$w_about = 'Optionen… Über';
 $w_helpFile = 'Dateien & Dokumentation';
 $w_help = 'Hilfe';
 $w_helpForums = 'Englischsprachiges Support-Forum';
 $w_helpUse = 'Bedienungsanleitung';
-$w_exit = 'Ende';
+$w_exit = 'Beenden';
 $w_version = 'Version';
-$w_service = 'Service-Administration';
-$w_services_msc = 'Services-Systemsteuerung';
+$w_service = 'Dienste-Verwaltung';
+$w_services_msc = 'Dienste-Systemsteuerung';
 $w_doc = 'Dokumentation';
-$w_cmdWindows = 'Command-Fenster';
+$w_cmdWindows = 'Kommandozeilen-Fenster';
 
 $w_localhost = 'Localhost';
 $w_phpmyadmin = 'phpMyAdmin';
@@ -50,7 +50,7 @@ $w_apacheSettings = 'Apache-Einstellungen';
 $w_apacheDefaults = 'Standard-Direktiven';
 $w_phpSettings = 'PHP-Einstellungen';
 $w_aliasDirectories = 'Alias-Ordner';
-$w_services = 'Services';
+$w_services = 'Dienste';
 $w_apache = 'Apache';
 $w_apacheCommand = $w_cmdWindows.' '.$w_apache.'/bin';
 $w_apacheDoc = 'Apache '.$w_doc;
@@ -59,15 +59,15 @@ $w_mysqlDoc = 'MySQL '.$w_doc;
 $w_mysqlSettings = 'MySQL-Einstellungen';
 $w_mariaSettings = 'MariaDB-Einstellungen';
 $w_mariadbDoc = 'MariaDB '.$w_doc;
-$w_startServices = 'Starte alle Services ';
-$w_stopServices = 'Stoppe alle Services';
-$w_restartServices = 'Neustart aller Services';
+$w_startServices = 'Starte alle Dienste ';
+$w_stopServices = 'Stoppe alle Dienste';
+$w_restartServices = 'Neustart aller Dienste';
 // Format ICU from https://unicode-org.github.io/icu/userguide/format_parse/datetime/#date-field-symbol-table
 // be careful
-$w_FormatDate = "Y-MM-dd hh:mm a";
+$w_FormatDate = "Y-MM-dd HH:mm";
 $w_startedOn = 'Gestartet am: ';
-$w_restartWamp = 'Neustart von Null';
-$w_warning = 'WARNUNG !'.
+$w_restartWamp = 'Zurücksetzen';
+$w_warning = 'WARNUNG!'.
 
 $w_apacheErrorLog = 'Apache Fehler-Log';
 $w_apacheAccessLog = 'Apache Zugriffs-Log';
@@ -85,13 +85,13 @@ $w_phpExtensions = 'PHP-Erweiterungen';
 $w_addExtension = 'Hinzufügen Erweiterung';
 $w_phpCommand = $w_cmdWindows.' PHP';
 
-$w_startResume = 'Starte/Fortsetze Service';
-$w_pauseService = 'Pausiere Service';
-$w_stopService = 'Stoppe Service';
-$w_restartService = 'Neustart Services';
+$w_startResume = 'Starte/Fortsetzen Dienst';
+$w_pauseService = 'Pausiere Dienst';
+$w_stopService = 'Stoppe Dienst';
+$w_restartService = 'Neustart Dienste';
 $w_testPort80 = 'Teste Port 80';
-$w_installService = 'Installiere Service';
-$w_removeService = 'Entferne Service';
+$w_installService = 'Installiere Dienst';
+$w_removeService = 'Entferne Dienst';
 $w_mysqlConsole = 'MySQL-Konsole';
 $w_mysqlCommand = $w_cmdWindows.' '.$w_mysql.'/bin';
 $w_mariadbConsole = 'MariaDB-Konsole';
@@ -102,13 +102,13 @@ $w_noDBMS = 'Kein Datenbank-System';
 
 $w_language = 'Sprache';
 
-$w_startOfServices = 'Starte Services';
-$w_servicesStarted = 'Services gestartet';
-$w_numberServices = '%1 von %2 Services gestartet!';
-$w_bepatient = 'Etwas Geduld !';
-$w_ready = 'Fertig !';
-$w_waitConfig = 'Einstellungen aktualisiert !';
-$w_waitServices = 'Installiere Services !';
-$w_waitParameters = 'Parameter zurückgesetzt !';
+$w_startOfServices = 'Starte Dienste';
+$w_servicesStarted = 'Dienste gestartet';
+$w_numberServices = '%1 von %2 Diensten gestartet!';
+$w_bepatient = 'Etwas Geduld…';
+$w_ready = 'Fertig!';
+$w_waitConfig = 'Einstellungen werden aktualisiert!';
+$w_waitServices = 'Installiere Dienste!';
+$w_waitParameters = 'Parameter werden gespeichert!';
 
 ?>
