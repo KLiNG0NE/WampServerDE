@@ -50,7 +50,7 @@ Folgende Dateien wurden hinzugefügt:
 | README.md                            | 100% ✅ |            |
 | www/wamplangues/add_vhost_german.php | 50% ❌  | 2025-12-12 |
 | www/wamplangues/help_german.php      | 0% ❌   |            |
-| www/wamplangues/index_german.php     | 100% ✅ | 2025-12-11 |
+| www/wamplangues/index_german.php     | 100% ✅ | 2026-09-03 |
 
 Folgende Dateien wurden aktualisiert:
 
