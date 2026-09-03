@@ -8,6 +8,8 @@ Dieses Repository beinhaltet Sprachdateien für die Software **WampServer**.
 
 ## WampServer-Homepage ##
 
+WampServer ist eine Webentwicklungsplattform unter Windows für dynamische Webanwendungen, die auf dem Apache2-Server, der Skriptsprache PHP und einer MySQL-Datenbank basiert. Außerdem verfügt sie über PHPMyAdmin, um die Verwaltung von Datenbanken zu vereinfachen.
+
 Vor der Nutzung dieser Sprachdateien, muss zunächst die kostenlose Original-Software vom Entwickler heruntergeladen und installiert werden:
 
 | Bezeichnung          | Website                                                                                             |
@@ -16,8 +18,9 @@ Vor der Nutzung dieser Sprachdateien, muss zunächst die kostenlose Original-Sof
 | Entwickler-Website:  | [wampserver.aviatechno.net](https://wampserver.aviatechno.net/ "https://wampserver.aviatechno.net") |
 | SourceForge.net      | [sourceforge.net](https://sourceforge.net/projects/wampserver/ "https://sourceforge.net")           |
 
-https://sourceforge.net/projects/wampserver/
 ---
+
+- [Version](#version)
 
 ## Version ##
 
