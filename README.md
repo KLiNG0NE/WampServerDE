@@ -20,9 +20,19 @@ Vor der Nutzung dieser Sprachdateien, muss zunächst die kostenlose Original-Sof
 
 ---
 
+## Übersicht ##
+
 - [Version](#version)
+- [Download](#download)
+- [Installation](#installation)
+- [Veränderte Dateien](#ver%C3%A4nderte-dateien)
+- [Hinweise](#hinweise)
+
+---
 
 ## Version ##
+
+Die Sprachdatei-Versionsnummer wird bei Änderungen an die getestete WampServer-Version angepasst.
 
 | Getestet mit | Version | Datum      |
 | :----------- | :-----: | :--------: |
@@ -70,7 +80,7 @@ Folgende Dateien wurden aktualisiert:
 
 ---
 
-### Hinweis ###
+## Hinweise ##
 
 Dieses Repository steht in keiner Verbindung mit dem Original-Entwickler der Software. Dies ist ein rein privates Projekt, um die Software **WampServer** an die deutsche Sprache anzupassen.
 
