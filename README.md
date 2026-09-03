@@ -58,14 +58,20 @@ Die Dateien werden anschließend in das Verzeichnis der WampServer-Installation,
 
 ## Veränderte Dateien ##
 
-Folgende Dateien wurden hinzugefügt:
+Folgende Dateien wurden/werden hinzugefügt:
 
 | Dateiname                            | Status   | Datum      |
 | :----------------------------------- | :------: | ---------- |
 | README.md                            | 100% ✅ |            |
 | www/wamplangues/add_vhost_german.php | 50% ❌  | 2025-12-12 |
-| www/wamplangues/help_german.php      | 0% ❌   |            |
+| www/wamplangues/help_german.php      | 100% ✅ | 2026-09-03 |
 | www/wamplangues/index_german.php     | 100% ✅ | 2026-09-03 |
+| files/instructions_german.pdf        | 0% ❌   |            |
+| files/mariadb_mysql_german.rtf       | 0% ❌   |            |
+| files/need_virtualhost_german.rtf    | 0% ❌   |            |
+| files/phpmyadmin_german.rtf          | 95 ✅   | 2026-09-03 |
+| files/wampmodehttps_german.rtf       | 0% ❌   |            |
+| files/wampmodehttpsmanuel_german.rtf | 0% ❌   |            |
 
 Folgende Dateien wurden aktualisiert:
 
