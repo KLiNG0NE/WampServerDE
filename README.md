@@ -13,8 +13,10 @@ Vor der Nutzung dieser Sprachdateien, muss zunächst die kostenlose Original-Sof
 | Bezeichnung          | Website                                                                                             |
 |:---------------------|:---------------------------------------------------------------------------------------------------:|
 | Homepage:            | [www.wampserver.com](https://www.wampserver.com/ "ttps://www.wampserver.com")                       |
-| Alternative Website: | [wampserver.aviatechno.net](https://wampserver.aviatechno.net/ "https://wampserver.aviatechno.net") |
+| Entwickler-Website:  | [wampserver.aviatechno.net](https://wampserver.aviatechno.net/ "https://wampserver.aviatechno.net") |
+| SourceForge.net      | [sourceforge.net](https://sourceforge.net/projects/wampserver/ "https://sourceforge.net")           |
 
+https://sourceforge.net/projects/wampserver/
 ---
 
 ## Version ##
