@@ -1,3 +1,5 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/KLiNG0NE/WampServerDE)
+
 # WampServerDE #
 
 <p align="center">
@@ -67,7 +69,7 @@ Folgende Dateien wurden/werden hinzugefügt:
 | www/wamplangues/help_german.php      | 100% ✅ | 2026-09-03 |
 | www/wamplangues/index_german.php     | 100% ✅ | 2026-09-03 |
 | files/instructions_german.pdf        | 0% ❌   |            |
-| files/mariadb_mysql_german.rtf       | 0% ❌   |            |
+| files/mariadb_mysql_german.rtf       | 95 ✅   | 2026-09-03 |
 | files/need_virtualhost_german.rtf    | 0% ❌   |            |
 | files/phpmyadmin_german.rtf          | 95 ✅   | 2026-09-03 |
 | files/wampmodehttps_german.rtf       | 0% ❌   |            |
