@@ -6,13 +6,13 @@
   <img src="WampServerDE-logo.png" alt="Logo" title="Logo" />
 </p>
 
-Dieses Repository beinhaltet Sprachdateien für die Software **WampServer**.
+Dieses Repository beinhaltet *Sprachdateien* für die Software **WampServer**.
 
-## WampServer-Homepage ##
+## WampServer ##
 
 WampServer ist eine Webentwicklungsplattform unter Windows für dynamische Webanwendungen, die auf dem Apache2-Server, der Skriptsprache PHP und einer MySQL-Datenbank basiert. Außerdem verfügt sie über PHPMyAdmin, um die Verwaltung von Datenbanken zu vereinfachen.
 
-Vor der Nutzung dieser Sprachdateien, muss zunächst die kostenlose Original-Software vom Entwickler heruntergeladen und installiert werden:
+Vor der Nutzung der hier angebotenen *Sprachdateien,* muss zunächst die kostenlose Original-Software vom Entwickler heruntergeladen und installiert werden:
 
 | Bezeichnung          | Website                                                                                             |
 |:---------------------|:---------------------------------------------------------------------------------------------------:|
