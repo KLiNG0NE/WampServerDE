@@ -39,11 +39,11 @@ $w_services_msc = 'Dienste-Systemsteuerung';
 $w_doc = 'Dokumentation';
 $w_cmdWindows = 'Kommandozeilen-Fenster';
 
-$w_localhost = 'Localhost';
+$w_localhost = 'localhost';
 $w_phpmyadmin = 'phpMyAdmin';
 $w_sqlitemanager = 'SQLiteManager';
 $w_wwwDirectory = 'www-Ordner';
-$w_logFiles = 'Log-Dateien';
+$w_logFiles = 'Protokoll-Dateien';
 $w_configFiles = 'Konfigurations-Dateien';
 $w_apacheModules = 'Apache-Module';
 $w_apacheSettings = 'Apache-Einstellungen';
@@ -69,20 +69,20 @@ $w_startedOn = 'Gestartet am: ';
 $w_restartWamp = 'Zurücksetzen';
 $w_warning = 'WARNUNG!'.
 
-$w_apacheErrorLog = 'Apache Fehler-Log';
-$w_apacheAccessLog = 'Apache Zugriffs-Log';
-$w_phpLog = 'PHP Fehler-Log';
-$w_changelog ='Change-Log';
+$w_apacheErrorLog = 'Apache Fehler-Protokoll';
+$w_apacheAccessLog = 'Apache Zugriffs-Protokoll';
+$w_phpLog = 'PHP Fehler-Protokoll';
+$w_changelog ='Änderungs-Protokoll';
 $w_phpDoc = 'PHP '.$w_doc;
-$w_mysqlLog = 'MySQL-Log';
-$w_mariadbLog = 'MariaDB-Log';
+$w_mysqlLog = 'MySQL-Protokoll';
+$w_mariadbLog = 'MariaDB-Protokoll';
 $w_addAlias = 'Hinzufügen eines Alias';
 $w_editAlias = 'Bearbeite Alias';
 $w_editHtaccess = 'Bearbeite .htaccess';
 $w_deleteAlias = 'Sperre Alias';
 $w_refresh = 'Aktualisieren';
 $w_phpExtensions = 'PHP-Erweiterungen';
-$w_addExtension = 'Hinzufügen Erweiterung';
+$w_addExtension = 'Hinzufügen einer Erweiterung';
 $w_phpCommand = $w_cmdWindows.' PHP';
 
 $w_startResume = 'Starte/Fortsetzen Dienst';
@@ -92,9 +92,9 @@ $w_restartService = 'Neustart Dienste';
 $w_testPort80 = 'Teste Port 80';
 $w_installService = 'Installiere Dienst';
 $w_removeService = 'Entferne Dienst';
-$w_mysqlConsole = 'MySQL-Konsole';
+$w_mysqlConsole = 'MySQL-Kommandozeile';
 $w_mysqlCommand = $w_cmdWindows.' '.$w_mysql.'/bin';
-$w_mariadbConsole = 'MariaDB-Konsole';
+$w_mariadbConsole = 'MariaDB-Kommandozeile';
 $w_mariadbCommand = $w_cmdWindows.' MariaDB/bin';
 $w_uncomment = 'Auskommentieren';
 
@@ -106,9 +106,9 @@ $w_startOfServices = 'Starte Dienste';
 $w_servicesStarted = 'Dienste gestartet';
 $w_numberServices = '%1 von %2 Diensten gestartet!';
 $w_bepatient = 'Etwas Geduld…';
-$w_ready = 'Fertig!';
+$w_ready = 'Bereit!';
 $w_waitConfig = 'Einstellungen werden aktualisiert!';
 $w_waitServices = 'Installiere Dienste!';
-$w_waitParameters = 'Parameter werden gespeichert!';
+$w_waitParameters = 'Parameter speichern!';
 
 ?>
