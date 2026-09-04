@@ -1,6 +1,6 @@
 <?php
 //
-// Translation by KLiNG0NE  (2026-09-02)
+// Translation by KLiNG0NE  (2026-09-03)
 //
 // Default German language file for
 // Projects and VirtualHosts sub-menus
@@ -53,8 +53,8 @@
 $w_projectsSubMenu = 'Projekte';
 // VirtualHosts sub-menu
 $w_virtualHostsSubMenu = 'VirtualHosts';
-$w_add_VirtualHost = 'VirtualHost-Management';
-$w_aliasSubMenu = 'Aliases';
+$w_add_VirtualHost = 'VirtualHost-Verwaltung';
+$w_aliasSubMenu = 'Aliase';
 $w_portUsed = 'Port genutzt von Apache: ';
 $w_portUsedMysql = 'Port genutzt von MySQL: ';
 $w_portUsedMaria = 'Port genutzt von MariaDB : ';
@@ -70,12 +70,12 @@ $w_testPortMariaUsed = 'Teste genutzten MariaDB-Port: ';
 $w_wampSettings = 'Wamp-Einstellungen';
 $w_settings = array(
 	'urlAddLocalhost' => 'localhost zu URL hinzufügen',
-	'VirtualHostSubMenu' => 'VirtualHosts Untermenü',
-	'AliasSubmenu' => 'Alias Untermenü',
-	'ProjectSubMenu' => 'Projekte Untermenü',
+	'VirtualHostSubMenu' => 'VirtualHosts-Untermenü',
+	'AliasSubmenu' => 'Alias-Untermenü',
+	'ProjectSubMenu' => 'Projekte-Untermenü',
 	'HomepageAtStartup' => 'Wampserver-Homepage bei Start',
 	'MenuItemOnline' => 'Menüpunkt: Online / Offline',
-	'ItemServicesNames' => 'Werkzeuge-Menüpunkt: Ãndere Service-Namen',
+	'ItemServicesNames' => 'Werkzeuge-Menüpunkt: Ãndere Dienst-Namen',
 	'CheckVirtualHost' => 'VirtualHost-Definitionen prüfen',
 	'NotCheckVirtualHost' => 'Nicht VirtualHost-Definitionen prüfen',
 	'NotCheckDuplicate' => 'Nicht auf doppelte Server-Namen prüfen',
@@ -95,7 +95,7 @@ $w_settings = array(
 	'AutoCleanLogsMin' => 'Zeilen nach Bereinigung',
 	'AutoCleanTmp' => 'tmp-Ordner automatisch bereinigen',
 	'AutoCleanTmpMax' => 'Anzahl der Dateien vor Bereinigung',
-	'CleanLogs_SwitchVersion' => 'Log-Dateien bei Versions-Ãnderung leeren',
+	'CleanLogs_SwitchVersion' => 'Log-Dateien bei Versions-Änderung leeren',
 	'ForTestOnly' => 'Nur zu Test-Zwecken',
 	'iniCommented' => 'Auskommentierte php.ini-Direktiven (; am Anfang der Zeile)',
 	'BackupHosts' => 'hosts-Datei sichern',
@@ -104,22 +104,22 @@ $w_settings = array(
 	'apacheCompareVersion' => 'Vergleich von Apache-Einstellungen aktivieren',
 	'apacheRestoreFiles' => 'Wiederherstellung von Apache-Dateien erlauben',
 	'apacheGracefulRestart' => 'Sanften Neustart von Apache aktivieren',
-	'LinksOnProjectsHomePage' => 'Links auf Projekte-Homepage erlauben',
+	'LinksOnProjectsHomePage' => 'Links zu Projekten auf Homepage erlauben',
 	'LinksOnProjectsHomeByIp' => 'Links zu Projekten über \'lokale Link-IP\'',
 	'LinksChooseIp' => 'Lokale IP wählen',
 	'ScrollListsHomePage' => 'Scrollbare Listen auf Homepage aktivieren',
 	'WampserverBrowser' => 'WampServer-Browser',
 	'BrowserChange' => 'WampServer-Browser einstellen',
-	'httpsReady' => 'WampServer ist bereit HTTPS zu unterstützen',
+	'httpsReady' => 'WampServer ist bereit für HTTPS-Unterstützung',
 	'AllowLocalhostHttps' => 'HTTPS für localhost aktivieren',
 );
 
 // Right-click Tools
-$w_wampTools = 'Tools';
+$w_wampTools = 'Werkzeuge';
 $w_restartDNS = 'DNS neu starten';
 $w_testConf = 'Syntax von httpd.conf prüfen';
-$w_testServices = 'Status der Services prüfen';
-$w_changeServices = 'Namen der Services ändern';
+$w_testServices = 'Status der Dienste prüfen';
+$w_changeServices = 'Namen der Dienste ändern';
 $w_compilerVersions = 'Prüfe Compiler VC, Kompatibilität und ini-Dateien';
 $w_UseAlternatePort = 'Nutze einen anderen Port als %s';
 $w_AddListenPort = 'Einen Listen-Port für Apache hinzufügen';
@@ -143,7 +143,7 @@ $w_emptyMariaLog = 'MariaDB-Protokoll leeren';
 $w_emptyAllLog ='Alle Protokolldateien leeren';
 
 $w_dnsorder = 'DNS-Suchreihenfolge prüfen';
-$w_deleteVer = 'Nicht verwendete Versionen löschen';
+$w_deleteVer = 'Ungenutzte Versionen löschen';
 $w_addingVer = 'Versionen von Apache, PHP, MySQL, MariaDB usw. hinzufügen.';
 $w_deleteListenPort = 'Einen Apache-Listen-Port löschen';
 $w_delete = 'Löschen';
@@ -151,23 +151,23 @@ $w_defaultDBMS = 'Standard-DBMS:';
 $w_NoDefaultDBMS = 'Standard-DBMS : keins';
 $w_invertDefault = 'Standard-DBMS invertieren ';
 $w_changeCLI = 'PHP-CLI-Version ändern';
-$w_reinstallServices = 'Alle Services neu installieren';
+$w_reinstallServices = 'Alle Dienste neu installieren';
 $w_reinstallWait = 'Kann länger als 30 Sek. dauern - Bitte warten';
 $w_wampReport = 'Wampserver-Konfigurationsbericht';
 $w_dowampReport = 'Erstelle '.$w_wampReport;
 $w_verifySymlink = 'Symbolische Links prüfen';
-$w_goto = '^Gehe zu:';
+$w_goto = 'Gehe zu:';
 $w_FileRepository = 'Links zu Dateien und Add-ons aus den Wampserver-Repositorys';
 $w_compareApache = 'Vergleich der Apache-Einstellungen';
 $w_versus = 'gegenüber';
 $w_restorefile = 'Bei der Installation von Apache gespeicherte Dateien wiederherstellen';
 $w_restore = 'Wiederherstellen';
 $w_checkUpdates = 'Nach Updates suchen';
-$w_apacheTools = 'Apache-Tools';
+$w_apacheTools = 'Apache-Werkzeuge';
 $w_PHPloadedExt = 'Geladene PHP-Erweiterungen anzeigen';
-$w_PHPversionsUse = 'Nutzung der PHP-Versionen anzeigen';
+$w_PHPversionsUse = 'Verwendete PHP-Versionen anzeigen';
 
-//miscellaneous
+//Miscellaneous
 $w_ext_spec = 'Spezielle Erweiterungen';
 $w_ext_zend = 'Zend-Erweiterungen';
 $w_phpparam_info = 'Nur zur Information';
@@ -186,7 +186,7 @@ $w_apache_compare = "Warnung: Vergleich der Apache-Einstellungen";
 $w_Refresh_Restart = "Hilfe ".$w_refresh.' - '.$w_restartWamp;
 $w_Size = "Größe";
 $w_Time = "Zeit";
-$w_Integer = "Ganzzahlwert";
+$w_Integer = "Ganzzahl";
 $w_phpMyAdminHelp = "Hilfe PhpMyAdmin";
 $w_wampHttpsHelp = "Hilfe zum HTTPS-Modus von Wampserver";
 $w_wampHttpsHelpAuto = "Hilfe zum 'automatischen' HTTPS-Modus von Wampserver";
@@ -211,15 +211,14 @@ $w_EnterInteger = "Ganze Zahl eingeben";
 $w_enterPort = "Gewünschte Portnummer eingeben";
 $w_EnterSize = "Größe eingeben: xxxx, gefolgt von M für Mega oder G für Giga\r\nDas Symbol M oder G muss direkt an die Zahl angehängt werden.\r\nBeispiele: 64M; 256M; 1G";
 $w_EnterTime = "Zeit in Sekunden eingeben";
-$w_MysqlMariaUser = "Gültigen Benutzernamen eingeben. Falls unbekannt, Standardeinstellung 'root' beibehalten.\r\nFalls ein Passwort für 'root' oder den Benutzer festgelegt wurde, muss dieses eingeben werden, sobald in der Konsole 'Enter password:' erscheint. Kein Passwort: Eingabetaste drücken.";
+$w_MysqlMariaUser = "Gültigen Benutzernamen eingeben. Falls unbekannt, Standardeinstellung 'root' beibehalten.\r\nFalls ein Passwort für 'root' oder den Benutzer festgelegt wurde, muss dieses eingeben werden, sobald in der Kommandozeile 'Enter password:' erscheint. Kein Passwort: Eingabetaste drücken.";
 
 // Long texts
 // Quotation marks " in texts must be escaped: \" - May have \r\n for multilines
-$w_addingVerTxt ="All \"addons\", i.e. all installers of Apache, PHP, MySQL or MariaDB versions as well as installers of updates (Wampserver, Aestan Tray Menu, xDebug, etc.) and web applications (PhpMyAdmin, Adminer) are on\r\n\r\n'https://wampserver.aviatechno.net'\r\n\r\nJust download the installer files you want and launch them by right-clicking on the name of the downloaded file then \"Run as administrator\" to have the addon or application added to your version of Wampserver.\r\n\r\nThen, changing Apache, PHP, MySQL or MariaDB version is a matter of three clicks:\r\nLeft-Click -> PHP|Apache|MySQL|MariaDB -> Version -> Choose version\r\n\r\nThe version change does not include any parameter changes you might have made, nor does it transfer databases from the old version to the new one.\r\n\r\nAnother repository exists:\r\n\r\n'https://sourceforge.net/projects/wampserver'.\r\n\r\nThe links to the repositories are in Right-Click -> Help\r\n";
-$w_MySQLsqlmodeInfo = "MySQL/MariaDB sql-mode\r\nThe SQL server may run in different SQL modes depending on the value of the sql-mode directive.\r\nSetting one or more modes restricts certain possibilities and requires greater rigor in SQL syntax and data validation.\r\nThe operation of the sql-mode directive in the my.ini file is as follows.\r\n\r\n- sql-mode: by default\r\nThe sql-mode directive does not exist or is commented out (;sql-mode=\"...\")\r\nThe default modes of the MySQL/MariaDB version are applied\r\n\r\n- sql-mode: user mode\r\nThe sql-mode directive is populated with user-defined modes, for example :\r\nsql-mode=\"NO_ZERO_DATE,NO_ZERO_IN_DATE,NO_AUTO_CREATE_USER\"\r\n\r\n- sql-mode: none\r\nThe sql-mode directive is empty but must exist:\r\nsql-mode=\"\"\r\nno SQL mode is applied.";
-$w_ApacheRestoreInfo = "--- Restoring Apache Files\r\nSince Apache 2.4.41, at the end of a release installation, the operational files httpd.conf and httpd-vhosts.conf are copied to a backup folder.\r\nIn case of problems or unwanted changes to Apache you can restore these two files to the original Apache configuration.\r\nOf course, IN THIS CASE YOU WILL LOSE ANY CONFIGURATION CHANGES YOU MAY HAVE MADE AFTER INSTALLATION, such as module or include loads.";
-$w_ApacheCompareInfo = "--- Comparing Apache versions\r\nIf you have at least two versions of Apache, you have the possibility to compare the current version with a previous version.\r\nThe following are compared:\r\n- LoadModule\r\n- Include\r\n- httpd-vhosts.conf files\r\n- httpd-ssl.conf files\r\n- openssl.cnf files\r\n- Presence and content of the Certs folder\r\nYou have the possibility to copy the configuration of an old version on the current version.\r\n*** WARNING *** No backups will be made, it is your responsibility to make backups BEFORE copying the configurations.";
-$w_Refresh_Restart_Info = "--- Differences between '".$w_refresh."' and '".$w_restartWamp."'\r\n-- ".$w_refresh.":\r\n- Performs various checks,\r\n- Rereads the configuration files of Wampserver, Apache, PHP, MySQL and MariaDB,\r\n- Modifies the Wampmanager configuration file accordingly and updates the menus,\r\n- Performs a 'Graceful Restart Apache',\r\n- Reloads the Aestan Tray menu.\r\nThere is no interruption of the Apache, PHP, MySQL and MariaDB connections.\r\n\r\n-- ".$w_restartWamp.":\r\n- Stop the services :".$c_apacheService.", ".$c_mysqlService." and ".$c_mariadbService.",\r\n- Empty all the log files,\r\n- Empty the tmp folder,\r\n- Exit Wampserver,\r\n- Starts Wampserver 'normally'.\r\nThere is thus a total cut of the connections Apache, PHP, MySQL and MariaDB and put back in place these under other identifications";
-$w_AdminerHelpTxt ="\r\n--- Adminer ---\r\nAdminer does not allow you to connect to databases without a password.\r\nIt is therefore necessary to create a password for 'root' before using Adminer.\r\nThis can be done via PhpMyAdmin or via the MySQL and/or MariaDB console.\r\nHowever, it is possible to authorize Adminer connections without a password.\r\nTo do this, see the contents of the file c:\\wamp64\\apps\\adminer4.x.y\\index.php\r\n";
-
+$w_addingVerTxt ="Alle \"Add-ons\", z.B. alle Installations-Programme von Apache-, PHP-, MySQL- oder MariaDB-Versionen genauso wie die Updates (Wampserver, Aestan Tray Menu, xDebug, etc.) und Web-Applikationen (PhpMyAdmin, Adminer) können hier herunter geladen werden:\r\n\r\n'https://wampserver.aviatechno.net'\r\n\r\nEinfach das gewünschte Installations-Programm starten, indem mit der rechten Maustaste auf den Namen geklickt wird, und dann \"Als Administrator ausführen\" gewählt wird. Somit wird das Add-on oder die Applikation zum Wampserver hinzugefügt.\r\n\r\nDas Ändern der Apache-, PHP-, MySQL- oder MariaDB-Version geschieht mit nur drei Klicks:\r\nLinks-Klick -> PHP|Apache|MySQL|MariaDB -> Version -> Version wählen\r\n\r\nDie Versionsumstellung umfasst weder etwaige vorgenommene Parameteränderungen noch die Übertragung von Datenbanken aus der alten Version in die neue.\r\n\r\nEs existiert ein weiteres Repository:\r\n\r\n'https://sourceforge.net/projects/wampserver'\r\n\r\nDie Links zu den Repositories sind auch unter \"Rechts-Klick -> Hilfe\" in Wampserver vorhanden.";
+$w_MySQLsqlmodeInfo = "MySQL/MariaDB SQL-Modus\r\nDer SQL-Server kann je nach Wert der Anweisung "sql-mode" in verschiedenen SQL-Modi ausgeführt werden.\r\nDas Festlegen eines oder mehrerer Modi schränkt bestimmte Möglichkeiten ein und erfordert eine strengere Einhaltung der SQL-Syntax sowie der Datenvalidierung.\r\nDie Anweisung "sql-mode" in der Datei "my.ini" funktioniert wie folgt:\r\n\r\n- SQL-Modus: Standard-Einstellung\r\nDie Anweisung "sql-mode" existiert nicht oder ist auskommentiert. (;sql-mode=\"...\")\r\nEs werden die Standardmodi der MySQL-/MariaDB-Version angewendet\r\n\r\n- SQL-Modus: user mode\r\nDie Anweisung "sql-mode" wird mit benutzerdefinierten Modi gefüllt, zum Beispiel:\r\nsql-mode=\"NO_ZERO_DATE,NO_ZERO_IN_DATE,NO_AUTO_CREATE_USER\"\r\n\r\n- SQL-Modus: none\r\nTDie Anweisung "sql-mode" ist leer, muss aber vorhanden sein.:\r\nsql-mode=\"\"\r\nes wird kein SQL-Modus angewendet.";
+$w_ApacheRestoreInfo = "--- Apache-Dateien wiederherstellen\r\nSeit Apache 2.4.41 werden am Ende einer Release-Installation die Konfigurationsdateien "httpd.conf" und "httpd-vhosts.conf" in einen Sicherungsordner kopiert.\r\nSollten Probleme oder unerwünschte Änderungen an Apache auftreten, können diese beiden Dateien wiederhergestellt werden, um die ursprüngliche Apache-Konfiguration wiederherzustellen.\r\nNatürlich gehen IN DIESEM FALL ALLE KONFIGURATIONSÄNDERUNGEN VERLOREN, DIE MÖGLICHERWEISE NACH DER INSTALLATION VORGENOMMEN WURDEN, wie beispielsweise das Laden von Modulen oder Include-Dateien.";
+$w_ApacheCompareInfo = "--- Vergleich von Apache-Versionen\r\nBei mindestens zwei Apache-Versionen besteht die Möglichkeit, die aktuelle Version mit einer früheren Version zu vergleichen.\r\nFolgendes wird verglichen:\r\n- LoadModule\r\n- Include\r\n- httpd-vhosts.conf Dateien\r\n- httpd-ssl.conf Dateien\r\n- openssl.cnf Dateien\r\n- Vorhandensein und Inhalt des "Certs"-Ordners\r\nEs besteht die Möglichkeit, die Konfiguration einer älteren Version in die aktuelle Version zu kopieren.\r\n*** WARNUNG *** Es werden keine Sicherungskopien erstellt. Es liegt in Ihrer Verantwortung, VOR dem Kopieren der Konfigurationen Sicherungskopien anzulegen.";
+$w_Refresh_Restart_Info = "--- Unterschied zwischen '".$w_refresh."' und '".$w_restartWamp."' ---\r\n\r\n".$w_refresh.":\r\n\r\n- Führt verschiedene Prüfungen durch\r\n- Liest die Konfigurationsdateien von Wampserver, Apache, PHP, MySQL and MariaDB\r\n- Passt die Wampmanager-Konfigurationsdatei entsprechend an und aktualisiert die Menüs\r\n- Führt einen reibungslosen Neustart von Apache aus\r\n- Lädt das Aestan-Tray-Menü neu\r\n\r\nEs kommt zu keiner Unterbrechung der Verbindungen zu Apache, PHP, MySQL und MariaDB.\r\n\r\n---\r\n\r\n".$w_restartWamp.":\r\n\r\n- Stoppt die Dienste: '".$c_apacheService."', '".$c_mysqlService."' sowie '".$c_mariadbService."'\r\n- Leert alle Protokoll-Dateien\r\n- Leert den 'tmp'-Ordner\r\n- Beendet Wampserver\r\n- Startet Wampserver 'normal'\r\n\r\nSomit werden die Verbindungen zu Apache, PHP, MySQL und MariaDB vollständig unterbrochen und unter anderen Bezeichnungen wiederhergestellt.";
+$w_AdminerHelpTxt ="\r\n--- Adminer ---\r\nMit Adminer kann keine Verbindung zu Datenbanken hergestellt werden, wenn kein Passwort vorhanden ist.\r\nDaher muss vor der Nutzung von Adminer ein Passwort für "root" angelegt werden.\r\nDies kann über "phpMyAdmin" oder über die MySQL- und/oder MariaDB-Kommandozeile erfolgen.\r\nEs ist jedoch möglich, Adminer-Verbindungen ohne Passwort zu autorisieren.\r\nInformationen dazu befinden sich im Inhalt der Datei c:\\wamp64\\apps\\adminer4.x.y\\index.php";
 ?>
