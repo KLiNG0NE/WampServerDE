@@ -36,7 +36,7 @@ Die Sprachdatei-Versionsnummer wird bei Änderungen an die getestete WampServer-
 
 | Getestet mit | Version | Datum      |
 | :----------- | :-----: | :--------: |
-| WampServer   | 3.4.2   | 2026-09-02 |
+| WampServer   | 3.4.2   | 2026-09-03 |
 
 ---
 
