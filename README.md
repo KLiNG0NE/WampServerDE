@@ -77,7 +77,7 @@ Folgende Dateien wurden aktualisiert:
 
 | Dateiname                            | Status   | Datum      |
 | :----------------------------------- | :------: | ---------- |
-| lang/german.lang                     | 100% ✅  | 2026-09-02 |
+| lang/german.lang                     | 100% ✅  | 2026-09-03 |
 | lang/modules/settings_german.php     | 90% ❌   | 2026-09-02 |
 
 ### Anmerkung ###
